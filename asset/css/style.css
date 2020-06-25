@@ -1,0 +1,166 @@
+body{
+
+    background: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+
+}
+
+*{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+nav{
+    text-align: center;
+}
+
+h1{
+
+    font-weight: 500;
+    font-size: 70px;
+}
+
+h2{
+
+    text-align: center;
+
+}
+
+.iguana1{
+
+    width: 25%;
+    vertical-align: middle;
+    margin-bottom: 66px;
+    margin-top: 45px;
+
+
+}
+
+.laiguana1{
+
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    vertical-align: middle;
+
+    
+}
+
+
+
+.iwana img{
+
+display: inline-block;
+width: 25%;
+text-align: center;
+margin-left: 15px;
+
+}
+
+
+.desc-section{
+
+width: 100%;
+margin: auto;
+text-align: center;
+vertical-align: middle;
+
+
+}
+
+.icons-section{
+
+    text-align: center;
+    background: #1e1a13;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    width: 100%;
+    margin: auto 0;
+
+
+}
+
+.icons-section i {
+
+font-size: 33px;
+
+
+
+}
+
+.box{
+
+display: inline-block;
+width: 33%;
+
+}
+
+.kevin{
+
+width: 80%;
+margin: auto;
+
+}
+
+img{
+
+    max-width: 100%;
+    
+
+}
+
+.kevin .iwana{
+
+    margin: auto;
+    text-align: center;
+    padding: 29px;
+
+    
+}
+
+
+
+
+.fin{
+
+    background:#1e1a13;
+    text-align: center;
+    font-size: 30px;
+    padding: 2rem 0;
+    
+    
+    
+    
+    
+
+}
+
+.fin a {
+
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p{
+
+    font-weight: 100;
+
+}
+.ancho{
+
+    width: 100%;
+    margin: auto 0;
+}
+
+.fotos{
+
+height: 202px;
+width: 316px;
+margin-top: 73px;
+margin-bottom: 16px;
+
+}
